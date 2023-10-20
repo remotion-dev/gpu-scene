@@ -24,9 +24,7 @@ export const AllGpu: React.FC = () => {
 					transform: `scale(0.5)`,
 					transformOrigin: '0 100%',
 				}}
-			>
-				<OrbScene />
-			</AbsoluteFill>
+			/>
 			<AbsoluteFill
 				style={{
 					transform: `scale(0.5)`,
