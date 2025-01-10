@@ -9,3 +9,4 @@ import {Config} from '@remotion/cli/config';
 
 Config.setChromiumOpenGlRenderer('angle-egl');
 Config.setVideoImageFormat('jpeg');
+Config.setChromeMode('chrome-for-testing');
